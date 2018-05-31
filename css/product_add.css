@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(https://imlaak.com/wp-content/uploads/2016/08/White-Background-9B1-1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.menu_line {
+    padding-top: 20px;
+    border-bottom: solid 2px black;
+}
+.main_text {
+    font-size: 30px;
+}
+.main_add_button, .main_back_button {
+    padding-top: 10px;
+}
+.input_menu {
+    padding: 30px;
+}
+label {
+    display: inline-block;
+    margin: 5px;
+    width: 100px;
+    text-align: right;
+}
+input {
+  display: inline-block;
+}
+#disc_menu {
+    display: none;
+}
+#disc_menu p {
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 110px;
+    font-weight: 700;
+}
+#book_menu {
+    display: none;
+}
+#book_menu p {
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 110px;
+    font-weight: 700;
+}
+#furniture_menu {
+    display: none;
+}
+#furniture_menu p {
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 110px;
+    font-weight: 700;
+}
+h6 {
+    font-size: 15px;
+    font-weight: 400;
+    margin-left: 50px;
+}
+.success {
+    color: blue;
+    margin-left: 70px;
+    font-size: 22px;
+}
+.errors {
+    color: red;
+    margin-left: 70px;
+    font-size: 17px;
+}
